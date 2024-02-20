@@ -1,2 +1,1 @@
-# Major-Project
-Sign Language Detection
+# Django2024
